@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# MCP config (may contain secrets)
+.mcp.json
+
+# Environment variables / secrets (GITHUB_TOKEN, etc.)
+.env
+.env.*
+!.env.example
