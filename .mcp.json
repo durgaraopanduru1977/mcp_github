@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "durga-mcp-server": {
+      "type": "stdio",
+      "command": "C:\\ClaudeCode\\MCP\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\ClaudeCode\\MCP\\server.py"]
+    }
+  }
+}
